@@ -171,9 +171,9 @@
     <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
     <bool name="config_dreamsSupported">true</bool>
     <bool name="config_dreamsEnabledByDefault">true</bool>
-    <bool name="config_dozeUseAccelerometer">true</bool>
+    <!--<bool name="config_dozeUseAccelerometer">true</bool>-->
 
     <!-- HW Keys Overlay -->
-    <bool name="config_hwKeysPref">true</bool>
+    <!--<bool name="config_hwKeysPref">true</bool>-->
 
 </resources>
